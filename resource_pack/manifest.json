@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Story Time",
+        "name": "Vanilla Resource Pack",
+        "uuid": "5541c42b-789e-49fc-9ef4-07ec1c04714c",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 80 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "ad959a0e-7afb-4c28-8c71-df79ceccb7ad",
+            "version": [0, 0, 1]
+        }
+    ]
+}
